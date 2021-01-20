@@ -1,0 +1,32 @@
+.bg-primary{
+	background: var(--primary-color) !important;
+}
+.logo{
+	padding:0;
+	margin: 0;
+	line-height: 1;
+	font-size: 1rem
+}
+article{
+	margin-bottom: 20px;
+}
+i.fas.fa-globe:after {
+    content: "\f0ac";
+}
+ul.ul-ft {
+    list-style: none;
+    display: flex;
+    padding: 0;
+}
+
+ul.ul-ft li {margin-right: 10px;}
+
+.hr {
+	border-bottom: 1px solid #fff;
+	margin-bottom: 23px;
+	width: 100%;
+}
+.ft-flex {
+	display: flex;
+	justify-content: space-between;
+}
